@@ -1,0 +1,46 @@
+.heading {
+    font-family: helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki; 
+    background-image: url('images/pattern.jpeg');
+    background-position: center;
+    background-repeat: no-repeat;
+    position:relative;
+    text-align: center;
+
+
+}
+
+
+.subtitle1 {
+    font-size: 32px;
+    font-family: Helvetica;
+    font-weight: bold;
+    color: white;
+    background-color: mediumspringgreen;
+}
+ .bold {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+ }
+ .subtitle2 {
+    font-size: 32px;
+    font-family: Helvetica;
+    font-weight: bold;
+    color: white;
+    background-color: lightcoral;
+ }
+ .subtitle3 {
+    font-size: 32px;
+    font-family: helvetica;
+    font-weight: bold;
+    color: white;
+    background-color: skyblue;
+
+
+ }
+
+
+       
